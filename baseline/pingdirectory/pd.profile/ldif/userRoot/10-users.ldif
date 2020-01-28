@@ -18,7 +18,7 @@ objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
-sn: Seawell
+sn: King
 cn: Esko Seawell
 givenName: Esko
 uid: user.1
